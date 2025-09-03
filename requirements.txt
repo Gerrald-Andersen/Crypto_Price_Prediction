@@ -1,0 +1,10 @@
+streamlit
+streamlit_autorefresh
+tensorflow
+pandas
+numpy
+request
+time
+datetime
+pickle
+os

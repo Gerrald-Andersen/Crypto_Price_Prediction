@@ -1,10 +1,7 @@
 streamlit
-streamlit_autorefresh
+streamlit-autorefresh
 tensorflow
 pandas
 numpy
 requests
-time
-datetime
-pickle
-os
+scikit-learn

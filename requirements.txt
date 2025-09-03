@@ -3,7 +3,7 @@ streamlit_autorefresh
 tensorflow
 pandas
 numpy
-request
+requests
 time
 datetime
 pickle

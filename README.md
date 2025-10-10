@@ -56,3 +56,24 @@ Planned enhancements include:
 
 - **Cloud Deployment**  
   - Host the application on a scalable cloud platform for broader accessibility and real-time performance.
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+
+### 📚 Frameworks / Libraries  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Optuna](https://img.shields.io/badge/Optuna-5DADE2?style=for-the-badge) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scikeras](https://img.shields.io/badge/Scikeras-FF5733?style=for-the-badge) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-2E4053?style=for-the-badge) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) ![Scikeras](https://img.shields.io/badge/Scikeras-FF5733?style=for-the-badge) ![Pickle](https://img.shields.io/badge/Pickle-7D3C98?style=for-the-badge) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+### 🧰 Developer Tools  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+
+### 🤖 Artificial Intelligence  
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge)
+
+### 🔌 APIs and Integrations  
+![REST API](https://img.shields.io/badge/REST%20API-4CAF50?style=for-the-badge)
+
+### 🖥️ Operating Systems  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)

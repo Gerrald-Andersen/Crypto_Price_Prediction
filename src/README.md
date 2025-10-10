@@ -35,7 +35,7 @@ This folder contains the core components of the Bitcoin price prediction pipelin
 
 ---
 
-## ⚖️ License
+## ⚖️ LICENSE
 
-This project is licensed under the **Apache License 2.0**.  
-See the [`LICENSE`](../LICENSE) file for full details.
+This project is proprietary. All rights reserved © 2025 Gerrald Andersen.  
+No part of this repository may be copied, modified, reused, or redistributed without explicit written permission.

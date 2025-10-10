@@ -77,3 +77,8 @@ Planned enhancements include:
 
 ### 🖥️ Operating Systems  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
+

@@ -1,0 +1,7 @@
+streamlit
+streamlit-autorefresh
+tensorflow
+pandas
+numpy
+requests
+scikit-learn

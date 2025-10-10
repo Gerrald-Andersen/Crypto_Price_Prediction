@@ -80,5 +80,9 @@ Planned enhancements include:
 
 ---
 
-![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
+## License
+
+This project is proprietary. All rights reserved © 2025 Gerrald Andersen.  
+No part of this repository may be copied, modified, reused, or redistributed without explicit written permission.
+
 

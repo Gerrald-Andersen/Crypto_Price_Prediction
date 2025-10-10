@@ -84,5 +84,3 @@ Planned enhancements include:
 
 This project is proprietary. All rights reserved © 2025 Gerrald Andersen.  
 No part of this repository may be copied, modified, reused, or redistributed without explicit written permission.
-
-

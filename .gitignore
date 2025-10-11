@@ -1,0 +1,39 @@
+# 🚫 Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# 📦 Environment and dependency folders
+.env
+.venv/
+venv/
+pip-wheel-metadata/
+*.log
+
+# 📊 Model and pipeline artifacts
+*.keras
+*.pkl
+*.h5
+*.joblib
+
+# 📁 Dataset files
+*.csv
+*.tsv
+*.xlsx
+
+# 🧪 Jupyter and notebook artifacts
+.ipynb_checkpoints/
+*.ipynb
+
+# 🧼 OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+
+# 📄 License and proprietary notes (optional)
+LICENSE

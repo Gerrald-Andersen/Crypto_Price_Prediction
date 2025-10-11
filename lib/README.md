@@ -12,7 +12,6 @@ This folder contains the trained LSTM model, preprocessing pipelines, and scalin
 | `lstm_best_params.pkl`    | Serialized dictionary of best hyperparameters used during model tuning  |
 | `scaler_pipeline.pkl`     | Preprocessing pipeline for scaling time series input features           |
 | `timeseries_scaler.py`    | Custom scaler class for transforming multivariate time series data      |
-| `__pycache__/`            | Compiled Python cache (auto-generated, safe to ignore)                  |
 
 ---
 

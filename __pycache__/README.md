@@ -22,7 +22,7 @@ This folder contains auto-generated `.pyc` files compiled by Python to speed up 
 ```bash
 __pycache__/
 *.pyc
-
+```
 ---
 
 ## ⚖️ License
